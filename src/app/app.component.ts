@@ -9,5 +9,6 @@ import OneSignal from 'onesignal-cordova-plugin';
 export class AppComponent {
   constructor() {
     OneSignal.setAppId("YOU_APP_ID_HERE");
+    OneSignal.setLogLevel(6,0);
   }
 }

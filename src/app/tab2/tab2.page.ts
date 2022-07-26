@@ -9,4 +9,12 @@ export class Tab2Page {
 
   constructor() {}
 
+  myFunc1() {
+    //
+  }
+
+  myFunc2() {
+    //
+  }
+
 }
